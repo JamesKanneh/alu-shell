@@ -1,1 +1,1 @@
-# alu-shell project
+This is the ALU shell project
